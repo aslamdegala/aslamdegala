@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aslamdegala
-- 👀 I’m interested in Developing 
-- 🌱 I’m currently learning DSA
-- 💞️ I’m looking to collaborate on Data Science Projects
+- 👀 I’m interested in Development 
+- 🌱 I’m currently learning _____
+- 💞️ I’m looking to collaborate ____
 - 📫 How to reach me aslamdegala@gmail.com
 
 <!---
